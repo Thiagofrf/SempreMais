@@ -1,0 +1,17 @@
+.main {
+    background-color: #330224;
+}
+
+.bannerTitle {
+    color: white;
+    font-weight: lighter;
+}
+
+.planTitle {
+    color: white;
+    font-weight: bold;
+}
+
+.linkButton {
+    width: 20rem;
+}

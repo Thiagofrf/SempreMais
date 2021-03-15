@@ -1,0 +1,11 @@
+.CellphoneSection {
+    margin-left: 17%;
+}
+
+@media (min-width: 768px) { 
+    .marginCellphone {
+        padding-left: 25rem;
+        padding-right: 25rem;
+    }
+ }
+

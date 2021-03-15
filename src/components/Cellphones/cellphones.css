@@ -1,0 +1,24 @@
+.cardSettings {
+    width: 20rem;
+    border: none;
+}
+
+.cellphonesImg {
+    width: 20rem;
+    height: 25vh;
+}
+
+.check {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #330224;
+    font-size: 1.2rem;
+    font-weight: lighter;
+    text-decoration: none;  
+}
+
+.check:hover {
+    font-weight: normal;
+    color: #330224;
+    transition: 0.2s;
+}
+
